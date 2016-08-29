@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BostadAlert:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BostadAlert_jar</output-path>
+    <root id="archive" name="BostadAlert.jar">
+      <element id="module-output" name="BostadAlert" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../SkypeBot/src/lib/htmlunit-2.22-OSGi.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../SkypeBot/src/lib/activation.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/libraries/javax.mail.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/libraries/jsoup-1.9.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
